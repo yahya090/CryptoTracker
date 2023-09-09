@@ -1,8 +1,14 @@
 # Crypto Mine
 
 A dynamic and user-friendly web application designed to provide real-time cryptocurrency tracking. Harnessing live data, this application offers:
+
+
 **Comprehensive Coin Listings**: Browse through a vast array of cryptocurrencies, ensuring users are always informed about their favorite tokens.
+
+
 **Live Data Updates**: Stay ahead of the market with live data refreshes, ensuring the latest price, market cap, volume, and other pertinent metrics are always at your fingertips.
+
+
 **Sleek Design**: Crafted with a focus on user experience, the design ensures seamless navigation, clear data representation, and intuitive interactions, catering to both crypto novices and enthusiasts.
 
 Whether you're looking to monitor your cryptocurrency portfolio, make informed trading decisions, or simply stay updated on the volatile crypto market, this application serves as your comprehensive guide to the world of digital currencies.
